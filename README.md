@@ -6,7 +6,7 @@ This Streamlit application predicts stock prices using a pre-trained LSTM model.
 
 ## App Link
 
-Click [here](https://time-series-abe.streamlit.app/) to access the application.
+**Click here for the app:** [Stock Price Prediction App](https://time-series-abe.streamlit.app/)
 
 ## Features
 
